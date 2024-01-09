@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NSD_Local_Chat</string>
+    // Widget Labels
+    <string name="join">Join</string>
+    <string name="leave">Leave</string>
+    <string name="send">Send</string>
+    <string name="edit_text_hint">Say something…</string>
+
+    // Server messages
+    <string name="connection_server_message">Connecting…</string>
+</resources>
